@@ -1,0 +1,17 @@
+This assignment was graded with Grader version 2016.12.30a. If you don't understand the grader message, or believe the message to be inaccurate, please see the discussion forums for details on the grader limitations. If you want your assignment results to be verified, you must download the notebook and submit it manually, Coursera is working on this feature. See the course resources Jupyter Notebook FAQ page for more details.
+
+ Detected Jupyter notebook submission.
+ 
+----------
+ Function get_list_of_university_towns was answered correctly, 0.1 points were awarded. 
+----------
+ Function get_recession_start was answered correctly, 0.1 points awarded. 
+----------
+ Function get_recession_end was answered correctly, 0.1 points awarded. 
+----------
+ Function get_recession_bottom was answered correctly, 0.1 points awarded. 
+----------
+ Function convert_housing_data_to_quarters was answered correctly, 0.1 points awarded. 
+----------
+ Function run_ttest was answered incorrectly, 0.5 points were not awarded. 
+----------
